@@ -1,1 +1,2 @@
-This is test file
+This is test file. Now modify it
+Is it conflict ?
